@@ -16,3 +16,9 @@ body {
 
     font-size: 100px;
 }
+
+#ascensor {
+    color: chocolate;
+    text-align: right;
+    padding-top: 2%;
+}
