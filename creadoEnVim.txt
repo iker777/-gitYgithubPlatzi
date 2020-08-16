@@ -1,0 +1,2 @@
+Este archivo de texto lo estoy creando con el editor de texto de VIM desde
+La línea de comandos. Soy un fucking hacker :)
